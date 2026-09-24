@@ -1,0 +1,32 @@
+This Mod Aims to add controller support for many of Tmodloader's and Custom Mod's UI interface's
+
+The Current Version is v0.4.0
+
+This mod Intergrates Recipe browser into the mod speciffically for controller. Make sure to disable the normal recipe browser mod to avoid conglicts.
+
+It adds custom keyboard UI that works with controller for recipe browser
+
+Adds the ability to scroll through boss checklist on controller
+
+and adds Multi-binds for Quick Actions that let you select up to 2 combined keybinds to do one action.
+
+-- Bind Recommendations --
+
+I recommend if you use the new binds to tune the Stick Threshold(deadzone) that way you don't accidentally press it too much, preferably around 0.02 - 0.10
+
+I also recommend turning the "Hotbar scroll time to radial On" setting in "GamePad Advanced settings" all the way up to 5 seconds that way the game doesn't open the radial menu on you by accident forcing you to stop moving when it is open, unless you decide to use a different primary keybind
+
+
+
+
+
+
+-- My Current Future plans --
+
+- Controller support for other mods I can find
+
+- Better Controller functionality for base tmodloader including more multi-bind options for actions in other existing mods.
+
+- (Unsure) functionality for mods like hero's mod/cheat sheet
+
+- (maybe) Controller functionality for Auto Reforge and autotrash

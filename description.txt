@@ -1,0 +1,12 @@
+This Mod Aims to add controller support for many of Tmodloader's and Custom Mod's UI interface's
+
+The Current Version is v0.4.0
+
+This mod Intergrates Recipe browser into the mod speciffically for controller. Make sure to disable the normal recipe browser mod to avoid conglicts.
+
+It adds custom keyboard UI that works with controller for recipe browser
+
+Adds the ability to scroll through boss checklist on controller
+
+and adds Multi-binds for Quick Actions that let you select up to 2 combined keybinds to do one action.
+
