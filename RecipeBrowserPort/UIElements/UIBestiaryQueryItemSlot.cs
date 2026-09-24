@@ -1,0 +1,27 @@
+﻿using Terraria;
+using Terraria.UI;
+
+namespace ModdedControllerSupport.RecipeBrowserPort.UIElements
+{
+	internal class UIBestiaryQueryItemSlot : UIQueryItemSlot
+	{
+		public UIBestiaryQueryItemSlot(Item item) : base(item)
+		{
+		}
+
+		public override void LeftClick(UIMouseEvent evt)
+		{
+			base.LeftClick(evt);
+			//BestiaryUI.instance.queryLootItem = (item.type == 0) ? null : item;
+			ReplaceWithFake(item.type);
+			BestiaryUI.instance.updateNeeded = true;
+		}
+
+		internal override void ReplaceWithFake(int type)
+		{
+			base.ReplaceWithFake(type);
+			//BestiaryUI.instance.queryLootItem = item;
+			BestiaryUI.instance.updateNeeded = true;
+		}
+	}
+}
