@@ -1,0 +1,9 @@
+en-US, 355/355, 100%, missing 0
+de-DE, 28/355, 8%, missing 327
+it-IT, 28/355, 8%, missing 327
+fr-FR, 95/355, 27%, missing 260
+es-ES, 253/355, 71%, missing 102
+ru-RU, 259/355, 73%, missing 96
+zh-Hans, 255/355, 72%, missing 100
+pt-BR, 95/355, 27%, missing 260
+pl-PL, 87/355, 25%, missing 268

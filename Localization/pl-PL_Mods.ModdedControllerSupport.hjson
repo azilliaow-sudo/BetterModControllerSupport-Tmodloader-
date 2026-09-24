@@ -1,0 +1,284 @@
+Mods: {
+	ModdedControllerSupport: {
+		ImagePaths: {
+			// FilterMod: Images/filterMod
+			// FilterModColorable: Images/filterModColorable
+		}
+	}
+}
+
+Configs: {
+	ComboConfig: {
+		// DisplayName: Combo Config
+
+		QuickHeal: {
+			// Label: Quick Heal
+			// Tooltip: ""
+		}
+
+		ControllerPrimary: {
+			// Label: Controller Primary
+			// Tooltip: ""
+		}
+
+		RequireRightStick: {
+			// Label: Require Right Stick
+			// Tooltip: ""
+		}
+
+		RightStickThreshold: {
+			// Label: Right Stick Threshold
+			// Tooltip: ""
+		}
+
+		RightStickDirection: {
+			// Label: Right Stick Direction
+			// Tooltip: ""
+		}
+
+		CooldownTicks: {
+			// Label: Cooldown Ticks
+			// Tooltip: ""
+		}
+	}
+
+	ComboBind: {
+		// Tooltip: ""
+
+		ControllerPrimary: {
+			// Label: Controller Primary
+			// Tooltip: ""
+		}
+
+		RequireRightStick: {
+			// Label: Require Right Stick
+			// Tooltip: ""
+		}
+
+		RightStickThreshold: {
+			// Label: Right Stick Threshold
+			// Tooltip: ""
+		}
+
+		RightStickDirection: {
+			// Label: Right Stick Direction
+			// Tooltip: ""
+		}
+
+		CooldownTicks: {
+			// Label: Cooldown Ticks
+			// Tooltip: ""
+		}
+	}
+
+	RightStickDirection: {
+		// Tooltip: ""
+
+		Up: {
+			// Label: Up
+			// Tooltip: ""
+		}
+
+		Down: {
+			// Label: Down
+			// Tooltip: ""
+		}
+
+		Left: {
+			// Label: Left
+			// Tooltip: ""
+		}
+
+		Right: {
+			// Label: Right
+			// Tooltip: ""
+		}
+	}
+
+	QuickBuffConfig: {
+		// DisplayName: Quick Buff Config
+
+		ControllerPrimary: {
+			// Label: Controller Primary
+			// Tooltip: ""
+		}
+
+		RequireRightStick: {
+			// Label: Require Right Stick
+			// Tooltip: ""
+		}
+
+		RightStickThreshold: {
+			// Label: Right Stick Threshold
+			// Tooltip: ""
+		}
+
+		RightStickDirection: {
+			// Label: Right Stick Direction
+			// Tooltip: ""
+		}
+
+		CooldownTicks: {
+			// Label: Cooldown Ticks
+			// Tooltip: ""
+		}
+	}
+
+	QuickHealConfig: {
+		// DisplayName: Quick Heal Config
+
+		ControllerPrimary: {
+			// Label: Controller Primary
+			// Tooltip: ""
+		}
+
+		RequireRightStick: {
+			// Label: Require Right Stick
+			// Tooltip: ""
+		}
+
+		RightStickThreshold: {
+			// Label: Right Stick Threshold
+			// Tooltip: ""
+		}
+
+		RightStickDirection: {
+			// Label: Right Stick Direction
+			// Tooltip: ""
+		}
+
+		CooldownTicks: {
+			// Label: Cooldown Ticks
+			// Tooltip: ""
+		}
+	}
+
+	QuickManaConfig: {
+		// DisplayName: Quick Mana Config
+
+		ControllerPrimary: {
+			// Label: Controller Primary
+			// Tooltip: ""
+		}
+
+		RequireRightStick: {
+			// Label: Require Right Stick
+			// Tooltip: ""
+		}
+
+		RightStickThreshold: {
+			// Label: Right Stick Threshold
+			// Tooltip: ""
+		}
+
+		RightStickDirection: {
+			// Label: Right Stick Direction
+			// Tooltip: ""
+		}
+	}
+
+	QuickMountConfig: {
+		// DisplayName: Quick Mount Config
+
+		ControllerPrimary: {
+			// Label: Controller Primary
+			// Tooltip: ""
+		}
+
+		RequireRightStick: {
+			// Label: Require Right Stick
+			// Tooltip: ""
+		}
+
+		RightStickThreshold: {
+			// Label: Right Stick Threshold
+			// Tooltip: ""
+		}
+
+		RightStickDirection: {
+			// Label: Right Stick Direction
+			// Tooltip: ""
+		}
+
+		CooldownTicks: {
+			// Label: Cooldown Ticks
+			// Tooltip: ""
+		}
+	}
+
+	RecipeBrowserClientConfig: {
+		// DisplayName: Recipe Browser Client Config
+
+		ShowRecipeModSource: {
+			// Label: Show Recipe Mod Source
+			// Tooltip: ""
+		}
+
+		ShowItemModSource: {
+			// Label: Show Item Mod Source
+			// Tooltip: ""
+		}
+
+		ShowNPCModSource: {
+			// Label: Show N P C Mod Source
+			// Tooltip: ""
+		}
+
+		OpenKeybindingsMenuButton: {
+			// Label: Open Keybindings Menu Button
+			// Tooltip: ""
+		}
+
+		// Headers.AutomaticSettings: Automatic Settings Header
+
+		RecipeBrowserSize: {
+			// Label: Recipe Browser Size
+			// Tooltip: ""
+		}
+
+		RecipeBrowserPosition: {
+			// Label: Recipe Browser Position
+			// Tooltip: ""
+		}
+
+		FavoritedRecipePanelPosition: {
+			// Label: Favorited Recipe Panel Position
+			// Tooltip: ""
+		}
+
+		OnlyShowFavoritedWhileInInventory: {
+			// Label: Only Show Favorited While In Inventory
+			// Tooltip: ""
+		}
+
+		ShowOtherPlayersFavoritedRecipes: {
+			// Label: Show Other Players Favorited Recipes
+			// Tooltip: ""
+		}
+	}
+
+	ShowOtherPlayersFavoritedRecipesOption: {
+		// Tooltip: ""
+
+		ShowAll: {
+			// Label: Show All
+			// Tooltip: ""
+		}
+
+		ShowTeamOnly: {
+			// Label: Show Team Only
+			// Tooltip: ""
+		}
+
+		Hide: {
+			// Label: Hide
+			// Tooltip: ""
+		}
+	}
+}
+
+Keybinds: {
+	// ToggleRecipeBrowser.DisplayName: Toggle Recipe Browser
+	// QueryHoveredItem.DisplayName: Query Hovered Item
+	// ToggleFavoritedRecipesWindow.DisplayName: Toggle Favorited Recipes Window
+}
